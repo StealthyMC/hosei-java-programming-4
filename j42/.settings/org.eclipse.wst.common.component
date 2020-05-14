@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+                
+    
+    
+    <wb-module deploy-name="j42">
+                                
+        
+        
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+                                
+        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+                                
+        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WebContent/img"/>
+                        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WebContent/lesson08/img"/>
+                        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WebContent/lesson08ex/img"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WebContent/lesson09"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WebContent/lesson09ex_16A2467"/>
+                                
+        
+        
+        <property name="java-output-path" value="/j42/bin"/>
+        <property name="context-root" value="j42"/>
+                            
+    
+    
+    </wb-module>
+            
+
+
+</project-modules>

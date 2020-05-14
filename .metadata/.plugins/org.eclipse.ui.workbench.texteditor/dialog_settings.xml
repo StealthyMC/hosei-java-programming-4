@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<item key="selection" value="OutputStream"/>
+		<list key="findhistory">
+			<item value="outputStream"/>
+			<item value="ayy"/>
+			<item value="out"/>
+			<item value="Welcome"/>
+			<item value="radioNoFill"/>
+			<item value="radioFill"/>
+			<item value="selectedImagePane"/>
+			<item value="jtfConfirm"/>
+			<item value="jtfPassword"/>
+			<item value="jtfInput"/>
+			<item value="menuItemClose"/>
+			<item value="menuItemOpen"/>
+			<item value="menuItemC"/>
+			<item value="menuBarFile"/>
+			<item value="ChatBox_1"/>
+		</list>
+		<list key="replacehistory">
+			<item value="pw"/>
+			<item value="buttonNoFill"/>
+			<item value="buttonFill"/>
+			<item value="paneSelectedImage"/>
+			<item value="jpfConfirm"/>
+			<item value="jpfPassword"/>
+			<item value="jtaInput"/>
+			<item value="menuItemYellow"/>
+			<item value="menuItemWhite"/>
+			<item value="White"/>
+			<item value="menuBarBG"/>
+			<item value="ChatBox_2"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="647"/>
+		<item key="DIALOG_Y_ORIGIN" value="192"/>
+		<item key="DIALOG_WIDTH" value="294"/>
+		<item key="DIALOG_HEIGHT" value="408"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+</section>

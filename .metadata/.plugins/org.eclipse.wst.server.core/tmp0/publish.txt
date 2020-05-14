@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Sat Jun 22 04:03:59 JST 2019
+org.eclipse.jst.jee.server\:j42=/Users/andrew/Documents/apache-tomcat-8.5.41/webapps/j42
+org.eclipse.jst.jee.server\:j4=/Users/andrew/Documents/apache-tomcat-8.5.41/webapps/j4
+org.eclipse.jst.jee.server\:lesson07=/Users/andrew/Documents/apache-tomcat-8.5.41/webapps/lesson07

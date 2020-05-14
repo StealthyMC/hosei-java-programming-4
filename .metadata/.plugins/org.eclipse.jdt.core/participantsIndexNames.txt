@@ -1,0 +1,19 @@
+INDEX VERSION 1.131
+/Users/andrew/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/925867835.index
+/j42/src
+/Users/andrew/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4045157398.index
+/j4/src
+/Users/andrew/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/718359120.index
+/j42/src
+/Users/andrew/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1376526382.index
+/j4/src
+/Users/andrew/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2387248923.index
+/lesson07/src
+/Users/andrew/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2191344247.index
+/j4/src
+/Users/andrew/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4171386029.index
+/j4/src
+/Users/andrew/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/996066907.index
+/j4/src
+/Users/andrew/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1536774078.index
+/j4/src

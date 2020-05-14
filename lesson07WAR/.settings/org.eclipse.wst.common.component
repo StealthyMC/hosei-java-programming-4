@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="lesson07WAR">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <dependent-module archiveName="lesson07.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/lesson07/lesson07">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <property name="context-root" value="lesson07WAR"/>
+        <property name="java-output-path" value="/lesson07WAR/build/classes"/>
+    </wb-module>
+</project-modules>
